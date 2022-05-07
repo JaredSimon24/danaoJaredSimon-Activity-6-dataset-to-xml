@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<!DOCTYPE Early_Childhood_Progress_Report_2012-2013 [
+<!ELEMENT Early_Childhood_Progress_Report_2012-2013 (report)>
+
+<!ELEMENT report (dbn, school_name, school_type, overall_score, overall_grade, rank, progress_grade, performance_grade, enviroment_grade, closing_the_achievement_gap_point)>
+
+<!ELEMENT dbn (#PCDATA)>
+<!ELEMENT school_name (#PCDATA)>
+<!ELEMENT school_type (#PCDATA)>
+<!ELEMENT overall_score (#PCDATA)>
+<!ELEMENT overall_grade (#PCDATA)>
+<!ELEMENT rank (#PCDATA)>
+<!ELEMENT progress_grade (#PCDATA)>
+<!ELEMENT performance_grade (#PCDATA)>
+<!ELEMENT enviroment_grade (#PCDATA)>
+<!ELEMENT closing_the_achievement_gap_point (#PCDATA)>
+
+<!ATTLIST report row CDATA #REQUIRED>
+
+
+]>
+
+<Early_Childhood_Progress_Report_2012-2013>
+
+	
+ 	<report id = "row 1">
+		<dbn>02M151 </dbn>
+		<school_name>Yorkville Community School</school_name>
+		<school_type>K-3</school_type>
+		<overall_score>40.2</overall_score>
+		<overall_grade>C</overall_grade>
+		<rank>28</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>B</performance_grade>
+		<enviroment_grade>C</enviroment_grade>
+		<closing_the_achievement_gap_point>2.3</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 2">
+		<dbn>02M397</dbn>
+		<school_name>SPRUCE STREET SCHOOL</school_name>
+		<school_type>K-3</school_type>
+		<overall_score>28.4</overall_score>
+		<overall_grade>C</overall_grade>
+		<rank>31</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>C</performance_grade>
+		<enviroment_grade>D</enviroment_grade>
+		<closing_the_achievement_gap_point>0.3</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 3">
+		<dbn>03M185</dbn>
+		<school_name>P.S. 185 - The Early Childhood Discovery and Design Magnet School</school_name>
+		<school_type>K-2</school_type>
+		<overall_score>43.3</overall_score>
+		<overall_grade>B</overall_grade>
+		<rank>24</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>C</performance_grade>
+		<enviroment_grade>B</enviroment_grade>
+		<closing_the_achievement_gap_point>7.0</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 4">
+		<dbn>04M112</dbn>
+		<school_name>P.S. 112 Jose Celso Barbosa</school_name>
+		<school_type>K-2</school_type>
+		<overall_score>46.2</overall_score>
+		<overall_grade>B</overall_grade>
+		<rank>21</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>B</performance_grade>
+		<enviroment_grade>B</enviroment_grade>
+		<closing_the_achievement_gap_point>6.6</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 5">
+		<dbn>06M178</dbn>
+		<school_name>Professor Juan Bosch Public School</school_name>
+		<school_type>K-2</school_type>
+		<overall_score>52.8</overall_score>
+		<overall_grade>B</overall_grade>
+		<rank>15</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>A</performance_grade>
+		<enviroment_grade>A</enviroment_grade>
+		<closing_the_achievement_gap_point>4.3</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 6">
+		<dbn>09X088</dbn>
+		<school_name>P.S. X088 - S. Silverstein Little Sparrow School</school_name>
+		<school_type>K-3</school_type>
+		<overall_score>67.1</overall_score>
+		<overall_grade>A</overall_grade>
+		<rank>6</rank>
+		<progress_grade>A</progress_grade>
+		<performance_grade>A</performance_grade>
+		<enviroment_grade>B</enviroment_grade>
+		<closing_the_achievement_gap_point>5.6</closing_the_achievement_gap_point>
+	</report>
+
+
+	<report id = "row 7">
+		<dbn>09X170</dbn>
+		<school_name>P.S. 170</school_name>
+		<school_type>K-2</school_type>
+		<overall_score>38.5</overall_score>
+		<overall_grade>C</overall_grade>
+		<rank>29</rank>
+		<progress_grade>C</progress_grade>
+		<performance_grade>C</performance_grade>
+		<enviroment_grade>A</enviroment_grade>
+		<closing_the_achievement_gap_point>2.7</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 8">
+		<dbn>09X236</dbn>
+		<school_name>P.S. 236 Langston Hughes</school_name>
+		<school_type>K-3</school_type>
+		<overall_score>25.0</overall_score>
+		<overall_grade>C</overall_grade>
+		<rank>33</rank>
+		<progress_grade>C</progress_grade>
+		<performance_grade>C</performance_grade>
+		<enviroment_grade>B</enviroment_grade>
+		<closing_the_achievement_gap_point>1.8</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 9">
+		<dbn>10X207</dbn>
+		<school_name>P.S. 207</school_name>
+		<school_type>K-2</school_type>
+		<overall_score>47.1</overall_score>
+		<overall_grade>B</overall_grade>
+		<rank>19</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>B</performance_grade>
+		<enviroment_grade>C</enviroment_grade>
+		<closing_the_achievement_gap_point>5.4</closing_the_achievement_gap_point>
+	</report>
+
+	<report id = "row 10">
+		<dbn>10X209</dbn>
+		<school_name>P.S. 209</school_name>
+		<school_type>K-2</school_type>
+		<overall_score>50.5</overall_score>
+		<overall_grade>B</overall_grade>
+		<rank>17</rank>
+		<progress_grade>B</progress_grade>
+		<performance_grade>B</performance_grade>
+		<enviroment_grade>A</enviroment_grade>
+		<closing_the_achievement_gap_point>3.3</closing_the_achievement_gap_point>
+	</report>
+
+</Early_Childhood_Progress_Report_2012-2013>
